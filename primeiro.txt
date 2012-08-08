@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 esta é a versão positiva do aquivo ora!!!
 agora estou trabalhando novamento na versao possitiva do arquivo!!!1
+=======
+esta ï¿½ a versï¿½o positiva do aquivo ora!!!
+
+amanha eu quero estar crack em git e github!!!!
+
+mais uma alteraÃ§Ã§Ã£o realizada
+
+>>>>>>> 4edf595e74e35bcb1f3db3fef532fb2914bdcba9
