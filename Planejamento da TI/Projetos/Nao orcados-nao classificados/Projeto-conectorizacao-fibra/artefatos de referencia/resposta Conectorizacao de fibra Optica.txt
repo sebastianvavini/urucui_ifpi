@@ -1,0 +1,22 @@
+Senhores agradeço ao Ciro por ter vindo ao campus para ajudar. 
+
+"Sugiro que Vinicius faça a solicitação ao seu Diretor com a especificação do serviço de fusão, para que o mesmo possa dar encaminhamento ao processo de contratação".
+
+Se na especificação do serviço for necessário apenas dizer que precisamos de serviço de conectorização então não seria necessário o Ciro vir até o campus pois eu mesmo já havia informado isso.
+
+"NECESSIDADES:
+É preciso que seja montado um ambiente para o NPD, seguem as necessidades imediatas:
+- Ar Condicionado Split de 24 mil Btu's;
+- instalação de 02 tomadas para os 02 Racks;
+- adaptadores do formato novo para o antigo, visto que a régua que o campus possui é no formato antigo OU comprar um nova régua já padrão novo.
+- 01 Distribuidor Interno Ótico (DIO)
+- Transceivers para conectar ao Switch
+- Path cords.
+"
+De todas essas necessidades eu já sabia. Também já sabia que seria necessário o serviço de fusão entre outros. Tanto é verdade que já havia informado isso à DTI e à diretoria do campus em época próxima à Reitoria Intinerante através de relatorio.
+
+Eric, quando o diretor prof. Henrique Flávio foi à DTI foi para obter ajuda com especificação do serviço de conectorização de fibra óptica. Foi porque afirmei a ele que faria a especificação do material depois que eu fizesse o curso porque não tinha como dar detalhes do que seria necessário. Desta forma voltamos à estaca zero pois as informações deste relatório não informam os tipos de material a ser conseguido. E nem o curso cofirmou a data de sua realização. Sei que existem vários tipos de DIO, de Transeivers, vários tipos de patch cords e conectores  e é esta a minha preocupação (os patch cords RJ45 não são motivo de preocupação para mim e sim os equipamentos relacionados à fibra óptica). 
+
+Preciso de ajuda com a especificação dos tipos de materiais relacionados á fibra óptica a serem conseguidos.
+
+3761dc
